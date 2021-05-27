@@ -16,15 +16,8 @@ public class slozno {
         v=70;
         boolean  comp2 = (!(x== "rainy" || v == 70));
         System.out.println();
-
-
-
-
+    }
 
     }
 
-
-
-
-    }
 

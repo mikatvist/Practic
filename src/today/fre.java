@@ -17,7 +17,7 @@ class Main{
         Circle c2 = (Circle) s1;
         c2.radius =3.1;
         fre s2 = c2;
-        System.out.println(s2.radius);
+        //System.out.println(s2.radius);
 
     }
 }
